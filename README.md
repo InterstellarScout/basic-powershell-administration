@@ -11,6 +11,11 @@ There are multiple scripts included in this package.
 3. User Scrips
     1. Lock out a user
     2. Manually create a user
-
+4. Windows Scripts (Non-Powershell Scripts)
+    1. Upgrade Windows10 quietly (getWindows10.bat)
+    2. backupUserLibraries (Read readme in folder for more details)
+    3. Dynamically change passwords on endpoint systems. 
+    4. CreateVPN script
+    
 ## Usage 
 Most scripts are run by loading them up into Powershell ISE and running them. 
